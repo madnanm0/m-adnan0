@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @m-adnan0
+- 👋 Hi, I’m Muhammad Adnan
 - 👀 I’m interested in Data
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on Data Analysis projects
